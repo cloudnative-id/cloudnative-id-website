@@ -1,0 +1,40 @@
+baseURL = "https://cloudnative-id.github.io/"
+languageCode = "en-us"
+title = "Cloudnative Indonesia"
+theme = "mediumish-gohugo-theme"
+
+[params]
+  logo = "/images/cncf-id.png"
+  description ="Cloudnative Community in Indonesia"
+
+[params.author]
+  thumbnail = "/images/cncf-id.png"
+  name = "Cloudnative Indonesia"
+  description = "Cloudnative Community in Indonesia"
+
+[params.index]
+  picture = "/images/cncf-id.png"
+  title = "Cloudnative Indonesia"
+  subtitle = "Cloudnative Community in Indonesia"
+  mdtext = '''Let's contribute'''
+  alertbar = true
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/"
+
+#[params.social]
+#  github = "<username>"
+#  linkedin = "<username>"
+#  xing = "<username>"
+#  medium = "<username>"
+#  twitter = "<username>"
+#  instagram = "<username>"
