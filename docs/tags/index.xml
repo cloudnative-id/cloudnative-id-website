@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cloudnative Indonesia</title>
-    <link>https://cloudnative-id.github.io/tags/</link>
+    <link>https://cloudnative-id.github.io/docs/tags/</link>
     <description>Recent content in Tags on Cloudnative Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 31 Aug 2019 18:13:41 +0700</lastBuildDate>
     
-	<atom:link href="https://cloudnative-id.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cloudnative-id.github.io/docs/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>blog</title>
-      <link>https://cloudnative-id.github.io/tags/blog/</link>
+      <link>https://cloudnative-id.github.io/docs/tags/blog/</link>
       <pubDate>Sat, 31 Aug 2019 18:13:41 +0700</pubDate>
       
-      <guid>https://cloudnative-id.github.io/tags/blog/</guid>
+      <guid>https://cloudnative-id.github.io/docs/tags/blog/</guid>
       <description></description>
     </item>
     

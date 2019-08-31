@@ -1,7 +1,8 @@
-baseURL = "https://cloudnative-id.github.io/"
+baseURL = "https://cloudnative-id.github.io/docs/"
 languageCode = "en-us"
 title = "Cloudnative Indonesia"
 theme = "mediumish-gohugo-theme"
+publishDir = "docs"
 
 [params]
   logo = "/images/cncf-id.png"
