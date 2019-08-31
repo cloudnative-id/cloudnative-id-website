@@ -1,4 +1,4 @@
-baseURL = "https://cloudnative-id.github.io/docs/"
+baseURL = "https://cloudnative-id.github.io/docs"
 languageCode = "en-us"
 title = "Cloudnative Indonesia"
 theme = "mediumish-gohugo-theme"
