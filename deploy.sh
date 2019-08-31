@@ -7,7 +7,6 @@ git config --global user.email "cncfidbot@users.noreply.github.com"
 git config --global user.name "CNCF ID Bot"
 git config --global push.default simple
 
-hugo
 git clone -b master https://github.com/cloudnative-id/cloudnative-id.github.io deployment
 rsync -av --delete --exclude ".git" docs/ deployment
 cd deployment
